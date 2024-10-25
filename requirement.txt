@@ -1,0 +1,6 @@
+streamlit==1.22.0
+pdfplumber==0.7.6
+langchain==0.0.300  # Adjust to the correct version you are using
+langchain-google-genai==0.0.1  # Adjust to the correct version you are using
+langchain-core==0.0.1  # Adjust to the correct version you are using
+langchain-community==0.0.1  # Adjust to the correct version you are using
